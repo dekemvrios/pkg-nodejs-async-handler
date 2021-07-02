@@ -1,0 +1,17 @@
+{
+  "name": "@sintese/nodejs-async-handler",
+  "version": "1.0.0",
+  "description": "NodeJS Async Handler",
+  "main": "src/handler.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelbeecker/nodejs-async-handler.git"
+  },
+  "keywords": ["async", "handler"],
+  "author": "Rafael Becker (https://github.com/rafaelbeecker)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelbeecker/nodejs-async-handler/issues"
+  },
+  "homepage": "https://github.com/rafaelbeecker/nodejs-async-handler#readme"
+}
