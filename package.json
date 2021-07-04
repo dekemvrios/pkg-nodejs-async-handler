@@ -1,6 +1,6 @@
 {
   "name": "@sintese/nodejs-async-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Handler para funções asíncronas abstraindo o uso de chamadas try/catch",
   "main": "src/handler.js",
   "repository": {
