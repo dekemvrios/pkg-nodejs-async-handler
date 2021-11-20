@@ -1,6 +1,6 @@
 {
   "name": "@sintese/nodejs-async-handler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Handler para funções asíncronas abstraindo o uso de chamadas try/catch",
   "main": "dist/handler.js",
   "types": "dist/handler.d.ts",
@@ -13,6 +13,9 @@
     "handler"
   ],
   "author": "Rafael Becker (https://github.com/rafaelbeecker)",
+  "scripts": {
+    "build": "tsc"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rafaelbeecker/nodejs-async-handler/issues"
