@@ -1,12 +1,12 @@
 {
   "name": "@sintese/nodejs-async-handler",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Handler para funções asíncronas abstraindo o uso de chamadas try/catch",
   "main": "dist/handler.js",
   "types": "dist/handler.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafaelbeecker/nodejs-async-handler.git"
+    "url": "git+https://github.com/rafaelbeecker-typs/nodejs-async-handler"
   },
   "keywords": [
     "async",
@@ -18,12 +18,12 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rafaelbeecker/nodejs-async-handler/issues"
+    "url": "https://github.com/rafaelbeecker-typs/nodejs-async-handler/issues"
   },
   "files": [
     "dist/**/*"
   ],
-  "homepage": "https://github.com/rafaelbeecker/nodejs-async-handler#readme",
+  "homepage": "https://github.com/rafaelbeecker-typs/nodejs-async-handler#readme",
   "devDependencies": {
     "@types/node": "^16.9.1",
     "@typescript-eslint/eslint-plugin": "^4.31.0",
